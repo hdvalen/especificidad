@@ -11,3 +11,19 @@ Parte 2: Ejemplos Prácticos (30 minutos)
         ![alt text](image1.png)
     2. Demostración de !important
         ![alt text](image2.png)
+
+Parte 3: Ejercicios Prácticos (45 minutos)
+
+    1. Calculando la especifidad
+        ¿Que color tendria el titulo <h1>?
+            Tendria el color rojo
+            ![alt text](image3.png)
+    2. Resolviendo conflictos de especifidad
+            !alt[alt text](image4.png)
+
+Parte 4: Desafío Final (30 minutos)
+
+    Desafío: Diseñando una Página Completa con Estilos Conflictivos
+        El <h1> en el .header debe ser de color blanco.
+        El texto del <p> en .content debe ser rojo.
+        El texto del <footer> debe ser gris.

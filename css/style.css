@@ -1,19 +1,45 @@
-/* Estilo por etiqueta */
+/* parte 2- ejercicio1 y 2
 p{
     color:blue
 }
 
-/* Estilo por clase */
 .container p{
     color: green;
 }
 
-/*
+#parrafo{
+    color: red;
+}
+
 p{
     color: blue !important;
 }
 */
-/* Estilo por ID */
-#parrafo{
+/* Parte 3- ejercicio 1
+
+
+h1{
+    color: blue;
+}
+
+.content h1{
+    color: green;
+}
+
+#main h1{
     color: red;
 }
+*/
+/*Parte 3- ejercicio 2
+#box p{
+    color: blue;
+}
+
+.content .text{
+    color: green;
+}
+
+#box .text{
+    color: yellow;
+}
+*/

@@ -24,8 +24,8 @@ Parte 3: Ejercicios Prácticos (45 minutos)
 ![alt text](images/image3.png)
 
     2. Resolviendo conflictos de especifidad
-    
-!alt[alt text](images/image4.png)
+
+![alt text](images/image4.png)
 
 Parte 4: Desafío Final (30 minutos)
 
@@ -33,3 +33,9 @@ Parte 4: Desafío Final (30 minutos)
         El <h1> en el .header debe ser de color blanco.
         El texto del <p> en .content debe ser rojo.
         El texto del <footer> debe ser gris.
+
+Parte 5: Revisión y Discusión (30 minutos)
+
+    Revisar las soluciones de los participantes.
+    Discutir errores comunes y cómo evitarlos.
+    Aclarar dudas sobre cómo calcular la especificidad y cómo usarla correctamente.

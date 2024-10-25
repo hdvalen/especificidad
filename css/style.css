@@ -1,4 +1,4 @@
-/* parte 2- ejercicio1 y 2
+/* parte 2- ejercicio1 y 2 
 p{
     color:blue
 }
@@ -14,7 +14,7 @@ p{
 p{
     color: blue !important;
 }
-*/
+
 /* Parte 3- ejercicio 1
 
 
@@ -43,3 +43,31 @@ h1{
     color: yellow;
 }
 */
+
+/*parte 4*/
+.header h1 {
+    color: #ffffff; 
+}
+
+
+.content p {
+    color: red; 
+}
+
+
+#footer p {
+    color: gray; 
+}
+
+
+#box p {
+    color: blue; 
+}
+
+.content .text {
+    color: green; 
+}
+
+#box .text {
+    color: yellow; 
+}

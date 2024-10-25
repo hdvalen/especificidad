@@ -4,6 +4,7 @@ Parte 1: Introducción Teórica a la Especificidad (15 minutos)
     
     1. ¿Qué es la especificidad?
     2. Reglas del cálculo de la especificidad
+    enlace para ver las diapositivas https://www.canva.com/design/DAGUmyIu8SY/HpwCYIlopKwYHYfDF4wDkA/view?utm_content=DAGUmyIu8SY&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Parte 2: Ejemplos Prácticos (30 minutos)
 
@@ -33,9 +34,7 @@ Parte 4: Desafío Final (30 minutos)
         El <h1> en el .header debe ser de color blanco.
         El texto del <p> en .content debe ser rojo.
         El texto del <footer> debe ser gris.
+        
+![alt text](images/image5.png)
 
-Parte 5: Revisión y Discusión (30 minutos)
 
-    Revisar las soluciones de los participantes.
-    Discutir errores comunes y cómo evitarlos.
-    Aclarar dudas sobre cómo calcular la especificidad y cómo usarla correctamente.

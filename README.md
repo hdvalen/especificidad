@@ -8,8 +8,11 @@ Parte 1: Introducción Teórica a la Especificidad (15 minutos)
 Parte 2: Ejemplos Prácticos (30 minutos)
 
     1. Ejemplo Basico
+
 ![alt text](images/image1.png)
+
     2. Demostración de !important
+
 ![alt text](images/image2.png)
 
 Parte 3: Ejercicios Prácticos (45 minutos)
@@ -17,8 +20,11 @@ Parte 3: Ejercicios Prácticos (45 minutos)
     1. Calculando la especifidad
         ¿Que color tendria el titulo <h1>?
             Tendria el color rojo
+
 ![alt text](images/image3.png)
+
     2. Resolviendo conflictos de especifidad
+    
 !alt[alt text](images/image4.png)
 
 Parte 4: Desafío Final (30 minutos)
